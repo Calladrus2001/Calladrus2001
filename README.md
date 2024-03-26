@@ -8,6 +8,7 @@ I'm Vishesh Dugar, a passionate mobile app developer and backend developer curre
 
 Here are some of the technologies and tools I work with:
 
+![React](https://img.icons8.com/?size=48&id=NfbyHexzVEDk&format=png)
 ![Flutter](https://img.icons8.com/color/48/000000/flutter.png)
 ![Dart](https://img.icons8.com/?size=48&id=7AFcZ2zirX6Y&format=png)
 ![Firebase](https://img.icons8.com/?size=48&id=62452&format=png)
@@ -29,7 +30,7 @@ Here are some of the technologies and tools I work with:
 
 I am always eager to expand my skill set and stay updated with the latest trends. Currently, I am focused on learning:
 
-![Swift](https://img.icons8.com/?size=48&id=L0qOftn49JtY&format=png)
+![Next.js](https://img.icons8.com/?size=48&id=MWiBjkuHeMVq&format=png)
 ![TypeScript](https://img.icons8.com/?size=48&id=uJM6fQYqDaZK&format=png)
 
 ## 📫 Contact Me
