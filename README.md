@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm thrilled to have you here. 
 
-I'm Vishesh Dugar, a passionate mobile app developer and backend developer currently pursuing my studies at VIT Vellore. I specialize in mobile app development using Flutter and also have proficiency in backend development. I believe in the power of technology to create innovative solutions and enhance user experiences.
+I'm Vishesh Dugar, a passionate Full stack developer currently working at ION Trading. I specialize in Frontend development using React and also have proficiency in backend development using Node.js, AWS, Terraform, etc. I believe in the power of technology to create innovative solutions and enhance user experiences.
 
 ## 🚀 Technologies and Tools
 
